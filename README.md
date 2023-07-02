@@ -39,7 +39,7 @@ As a technology enthusiast, I am constantly updating my knowledge and keeping up
 <img align="left"  width="48px" alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
 <img align="left"  width="48px" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 <img align="left"  width="48px" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left"  width="48px" alt="RabbitMQ" src="rabbitmq-logo"/>
+<img align="left"  width="48px" alt="RabbitMQ" src="rabbitmq-logo.svg"/>
 <img align="left"  width="48px" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 <img align="left"  width="48px" alt="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
 <img align="left"  width="48px" alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
