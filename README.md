@@ -46,3 +46,15 @@ As a technology enthusiast, I am constantly updating my knowledge and keeping up
 <img align="left"  width="48px" alt="Maven" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg"/>
 <img align="left"  width="48px" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 <img align="left"  width="48px" alt="Windows" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
+<br>
+<br>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+# 📊 GitHub Stats:
+
+<p align="center">
+  
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=maikefb&hide_title=true&show_icons=true&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikefb&show_icons=true&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
