@@ -63,8 +63,8 @@ As a technology enthusiast, I am constantly updating my knowledge and keeping up
 
 <p align="center">
   
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=maikefb&hide_title=true&show_icons=true&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&hide=star" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikefb&show_icons=true&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=maikefb&hide_title=true&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&hide=star" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikefb&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
