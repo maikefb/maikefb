@@ -51,11 +51,19 @@ As a technology enthusiast, I am constantly updating my knowledge and keeping up
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+### The Main Projects
+
+[![Stream in Middleware](https://github-readme-stats.vercel.app/api/pin/?username=maikefb&repo=Stream-in-Middleware&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/maikefb/Stream-in-Middleware)
+[![Voting](https://github-readme-stats.vercel.app/api/pin/?username=maikefb&repo=Voting&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/maikefb/Voting)
+[![Walking Clothes](https://github-readme-stats.vercel.app/api/pin/?username=maikefb&repo=walking-clothes&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/maikefb/walking-clothes)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 # 📊 GitHub Stats:
 
 <p align="center">
   
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=maikefb&hide_title=true&show_icons=true&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=maikefb&hide_title=true&show_icons=true&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&hide=star" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikefb&show_icons=true&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
