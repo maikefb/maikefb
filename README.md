@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maike</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Maike;Welcome+to+my+profile.;.+I'm+glad+you+stopped+by)](https://git.io/typing-svg)
 <p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
